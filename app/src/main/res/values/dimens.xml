@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="width_menu">300dp</dimen>
+</resources>
